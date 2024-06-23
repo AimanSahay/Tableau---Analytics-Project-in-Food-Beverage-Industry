@@ -2,8 +2,11 @@
 
 ## A Case Study on Adverse Event Reporting in the Food and Cosmetics Industry
 
-### Link to the dashboard:
-https://public.tableau.com/app/profile/aiman.sahay/viz/AdverseEventReportinginFoodCosmeticsIndustry/Overview?publish=yes
+#### Link to the dashboard:
+[Dashboard](https://public.tableau.com/app/profile/aiman.sahay/viz/AdverseEventReportinginFoodCosmeticsIndustry/Overview?publish=yes)
+
+#### Link to the Project:
+[Tableau Project](https://drive.google.com/drive/folders/1oHGKOkQOJPbnANG0uRKzHQquawQE64Ep?usp=sharing)
 
 ## Background
 The CAERS database, a vital tool for the FDA, comprises adverse event and product complaint reports related to foods, dietary supplements, and cosmetics. This dataset, spanning from 2004 to the second quarter of 2017, provides detailed records coded using the Medical Dictionary for Regulatory Activities (MedDRA) terminology. This standardization ensures consistent reporting across various products, capturing essential data such as product roles, brand names, industry codes, patient demographics, adverse outcomes, and coded symptoms.
